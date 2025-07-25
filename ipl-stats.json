@@ -1,0 +1,2696 @@
+{
+  "2021": {
+    "orangeCap": [
+      {
+        "position": "1",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "635"
+      },
+      {
+        "position": "2",
+        "player": "Faf du Plessis",
+        "team": "CSK",
+        "value": "633"
+      },
+      {
+        "position": "3",
+        "player": "KL Rahul",
+        "team": "PBKS",
+        "value": "626"
+      },
+      {
+        "position": "4",
+        "player": "Shikhar Dhawan",
+        "team": "DC",
+        "value": "587"
+      },
+      {
+        "position": "5",
+        "player": "Glenn Maxwell",
+        "team": "RCB",
+        "value": "513"
+      },
+      {
+        "position": "6",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "484"
+      },
+      {
+        "position": "7",
+        "player": "Prithvi Shaw",
+        "team": "DC",
+        "value": "479"
+      },
+      {
+        "position": "8",
+        "player": "Shubman Gill",
+        "team": "KKR",
+        "value": "478"
+      },
+      {
+        "position": "9",
+        "player": "Mayank Agarwal",
+        "team": "PBKS",
+        "value": "441"
+      },
+      {
+        "position": "10",
+        "player": "Rishabh Pant",
+        "team": "DC",
+        "value": "419"
+      },
+      {
+        "position": "11",
+        "player": "Devdutt Padikkal",
+        "team": "RCB",
+        "value": "411"
+      },
+      {
+        "position": "12",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "405"
+      },
+      {
+        "position": "13",
+        "player": "Rahul Tripathi",
+        "team": "KKR",
+        "value": "397"
+      },
+      {
+        "position": "14",
+        "player": "Nitish Rana",
+        "team": "KKR",
+        "value": "383"
+      },
+      {
+        "position": "15",
+        "player": "Rohit Sharma",
+        "team": "MI",
+        "value": "381"
+      },
+      {
+        "position": "16",
+        "player": "Venkatesh Iyer",
+        "team": "KKR",
+        "value": "370"
+      },
+      {
+        "position": "17",
+        "player": "Moeen Ali",
+        "team": "CSK",
+        "value": "357"
+      },
+      {
+        "position": "18",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "317"
+      },
+      {
+        "position": "19",
+        "player": "AB de Villiers",
+        "team": "RCB",
+        "value": "313"
+      },
+      {
+        "position": "20",
+        "player": "Quinton de Kock",
+        "team": "MI",
+        "value": "297"
+      }
+    ],
+    "mostFours": [
+      {
+        "position": "1",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "13"
+      },
+      {
+        "position": "2",
+        "player": "Shikhar Dhawan",
+        "team": "DC",
+        "value": "13"
+      },
+      {
+        "position": "3",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "12"
+      },
+      {
+        "position": "4",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "12"
+      },
+      {
+        "position": "5",
+        "player": "Ishan Kishan",
+        "team": "MI",
+        "value": "11"
+      },
+      {
+        "position": "6",
+        "player": "Prithvi Shaw",
+        "team": "DC",
+        "value": "11"
+      },
+      {
+        "position": "7",
+        "player": "Devdutt Padikkal",
+        "team": "RCB",
+        "value": "11"
+      },
+      {
+        "position": "8",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "11"
+      },
+      {
+        "position": "9",
+        "player": "Shikhar Dhawan",
+        "team": "DC",
+        "value": "10"
+      },
+      {
+        "position": "10",
+        "player": "Shubman Gill",
+        "team": "KKR",
+        "value": "10"
+      },
+      {
+        "position": "11",
+        "player": "AB de Villiers",
+        "team": "RCB",
+        "value": "9"
+      },
+      {
+        "position": "12",
+        "player": "Prithvi Shaw",
+        "team": "DC",
+        "value": "9"
+      },
+      {
+        "position": "13",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "9"
+      },
+      {
+        "position": "14",
+        "player": "Rishabh Pant",
+        "team": "DC",
+        "value": "9"
+      },
+      {
+        "position": "15",
+        "player": "Glenn Maxwell",
+        "team": "RCB",
+        "value": "9"
+      },
+      {
+        "position": "16",
+        "player": "Faf du Plessis",
+        "team": "CSK",
+        "value": "9"
+      },
+      {
+        "position": "17",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "9"
+      },
+      {
+        "position": "18",
+        "player": "Nitish Rana",
+        "team": "KKR",
+        "value": "9"
+      },
+      {
+        "position": "19",
+        "player": "Venkatesh Iyer",
+        "team": "KKR",
+        "value": "9"
+      },
+      {
+        "position": "20",
+        "player": "Rahul Tripathi",
+        "team": "KKR",
+        "value": "8"
+      }
+    ],
+    "mostSixes": [
+      {
+        "position": "1",
+        "player": "Kieron Pollard",
+        "team": "MI",
+        "value": "8"
+      },
+      {
+        "position": "2",
+        "player": "KL Rahul",
+        "team": "PBKS",
+        "value": "8"
+      },
+      {
+        "position": "3",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "8"
+      },
+      {
+        "position": "4",
+        "player": "Ambati Rayudu",
+        "team": "CSK",
+        "value": "7"
+      },
+      {
+        "position": "5",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "7"
+      },
+      {
+        "position": "6",
+        "player": "Andre Russell",
+        "team": "KKR",
+        "value": "6"
+      },
+      {
+        "position": "7",
+        "player": "Deepak Hooda",
+        "team": "PBKS",
+        "value": "6"
+      },
+      {
+        "position": "8",
+        "player": "Devdutt Padikkal",
+        "team": "RCB",
+        "value": "6"
+      },
+      {
+        "position": "9",
+        "player": "Pat Cummins",
+        "team": "KKR",
+        "value": "6"
+      },
+      {
+        "position": "10",
+        "player": "Ravindra Jadeja",
+        "team": "CSK",
+        "value": "5"
+      },
+      {
+        "position": "11",
+        "player": "KL Rahul",
+        "team": "PBKS",
+        "value": "5"
+      },
+      {
+        "position": "12",
+        "player": "AB de Villiers",
+        "team": "RCB",
+        "value": "5"
+      },
+      {
+        "position": "13",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "5"
+      },
+      {
+        "position": "14",
+        "player": "Jason Holder",
+        "team": "SRH",
+        "value": "5"
+      },
+      {
+        "position": "15",
+        "player": "Moeen Ali",
+        "team": "CSK",
+        "value": "5"
+      },
+      {
+        "position": "16",
+        "player": "KL Rahul",
+        "team": "PBKS",
+        "value": "5"
+      },
+      {
+        "position": "17",
+        "player": "Ishan Kishan",
+        "team": "MI",
+        "value": "4"
+      },
+      {
+        "position": "18",
+        "player": "Mahipal Lomror",
+        "team": "RR",
+        "value": "4"
+      },
+      {
+        "position": "19",
+        "player": "Shimron Hetmyer",
+        "team": "DC",
+        "value": "4"
+      },
+      {
+        "position": "20",
+        "player": "Jonny Bairstow",
+        "team": "SRH",
+        "value": "4"
+      }
+    ],
+    "mostFifties": [
+      {
+        "position": "1",
+        "player": "Faf du Plessis",
+        "team": "CSK",
+        "value": "6"
+      },
+      {
+        "position": "2",
+        "player": "KL Rahul",
+        "team": "PBKS",
+        "value": "6"
+      },
+      {
+        "position": "3",
+        "player": "Glenn Maxwell",
+        "team": "RCB",
+        "value": "6"
+      },
+      {
+        "position": "4",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "4"
+      },
+      {
+        "position": "5",
+        "player": "Prithvi Shaw",
+        "team": "DC",
+        "value": "4"
+      },
+      {
+        "position": "6",
+        "player": "Mayank Agarwal",
+        "team": "PBKS",
+        "value": "4"
+      },
+      {
+        "position": "7",
+        "player": "Venkatesh Iyer",
+        "team": "KKR",
+        "value": "4"
+      },
+      {
+        "position": "8",
+        "player": "Shikhar Dhawan",
+        "team": "DC",
+        "value": "3"
+      },
+      {
+        "position": "9",
+        "player": "Shubman Gill",
+        "team": "KKR",
+        "value": "3"
+      },
+      {
+        "position": "10",
+        "player": "Rishabh Pant",
+        "team": "DC",
+        "value": "3"
+      },
+      {
+        "position": "11",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "3"
+      },
+      {
+        "position": "12",
+        "player": "Manish Pandey",
+        "team": "SRH",
+        "value": "3"
+      },
+      {
+        "position": "13",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "2"
+      },
+      {
+        "position": "14",
+        "player": "Rahul Tripathi",
+        "team": "KKR",
+        "value": "2"
+      },
+      {
+        "position": "15",
+        "player": "Nitish Rana",
+        "team": "KKR",
+        "value": "2"
+      },
+      {
+        "position": "16",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "2"
+      },
+      {
+        "position": "17",
+        "player": "AB de Villiers",
+        "team": "RCB",
+        "value": "2"
+      },
+      {
+        "position": "18",
+        "player": "Quinton de Kock",
+        "team": "MI",
+        "value": "2"
+      },
+      {
+        "position": "19",
+        "player": "Kane Williamson",
+        "team": "SRH",
+        "value": "2"
+      },
+      {
+        "position": "20",
+        "player": "Ambati Rayudu",
+        "team": "CSK",
+        "value": "2"
+      }
+    ],
+    "mostCenturies": [
+      {
+        "position": "1",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "1"
+      },
+      {
+        "position": "2",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "1"
+      },
+      {
+        "position": "3",
+        "player": "Devdutt Padikkal",
+        "team": "RCB",
+        "value": "1"
+      },
+      {
+        "position": "4",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "1"
+      }
+    ]
+  },
+  "2022": {
+    "orangeCap": [
+      {
+        "position": "1",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "863"
+      },
+      {
+        "position": "2",
+        "player": "K L Rahul",
+        "team": "LSG",
+        "value": "616"
+      },
+      {
+        "position": "3",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "508"
+      },
+      {
+        "position": "4",
+        "player": "Hardik Pandya",
+        "team": "GT",
+        "value": "487"
+      },
+      {
+        "position": "5",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "483"
+      },
+      {
+        "position": "6",
+        "player": "David Miller",
+        "team": "GT",
+        "value": "481"
+      },
+      {
+        "position": "7",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "468"
+      },
+      {
+        "position": "8",
+        "player": "Shikhar Dhawan",
+        "team": "PBKS",
+        "value": "460"
+      },
+      {
+        "position": "9",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "458"
+      },
+      {
+        "position": "10",
+        "player": "Deepak Hooda",
+        "team": "LSG",
+        "value": "451"
+      },
+      {
+        "position": "11",
+        "player": "Liam Livingstone",
+        "team": "PBKS",
+        "value": "437"
+      },
+      {
+        "position": "12",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "432"
+      },
+      {
+        "position": "13",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "426"
+      },
+      {
+        "position": "14",
+        "player": "Ishan Kishan",
+        "team": "MI",
+        "value": "418"
+      },
+      {
+        "position": "15",
+        "player": "Rahul Tripathi",
+        "team": "SRH",
+        "value": "413"
+      },
+      {
+        "position": "16",
+        "player": "Shreyas Iyer",
+        "team": "KKR",
+        "value": "401"
+      },
+      {
+        "position": "17",
+        "player": "Tilak Varma",
+        "team": "MI",
+        "value": "397"
+      },
+      {
+        "position": "18",
+        "player": "Aiden Markram",
+        "team": "SRH",
+        "value": "381"
+      },
+      {
+        "position": "19",
+        "player": "Devdutt Padikkal",
+        "team": "RR",
+        "value": "376"
+      },
+      {
+        "position": "20",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "368"
+      }
+    ],
+    "mostFours": [
+      {
+        "position": "1",
+        "player": "Moeen Ali",
+        "team": "CSK",
+        "value": "13"
+      },
+      {
+        "position": "2",
+        "player": "K L Rahul",
+        "team": "LSG",
+        "value": "12"
+      },
+      {
+        "position": "3",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "12"
+      },
+      {
+        "position": "4",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "12"
+      },
+      {
+        "position": "5",
+        "player": "Rajat Patidar",
+        "team": "RCB",
+        "value": "12"
+      },
+      {
+        "position": "6",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "11"
+      },
+      {
+        "position": "7",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "11"
+      },
+      {
+        "position": "8",
+        "player": "Ishan Kishan",
+        "team": "MI",
+        "value": "11"
+      },
+      {
+        "position": "9",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "11"
+      },
+      {
+        "position": "10",
+        "player": "Wriddhiman Saha",
+        "team": "GT",
+        "value": "11"
+      },
+      {
+        "position": "11",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "10"
+      },
+      {
+        "position": "12",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "10"
+      },
+      {
+        "position": "13",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "10"
+      },
+      {
+        "position": "14",
+        "player": "Aaron Finch",
+        "team": "KKR",
+        "value": "9"
+      },
+      {
+        "position": "15",
+        "player": "Shikhar Dhawan",
+        "team": "PBKS",
+        "value": "9"
+      },
+      {
+        "position": "16",
+        "player": "K L Rahul",
+        "team": "LSG",
+        "value": "9"
+      },
+      {
+        "position": "17",
+        "player": "Prithvi Shaw",
+        "team": "DC",
+        "value": "9"
+      },
+      {
+        "position": "18",
+        "player": "Nitish Rana",
+        "team": "KKR",
+        "value": "9"
+      },
+      {
+        "position": "19",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "9"
+      },
+      {
+        "position": "20",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "9"
+      }
+    ],
+    "mostSixes": [
+      {
+        "position": "1",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "10"
+      },
+      {
+        "position": "2",
+        "player": "Robin Uthappa",
+        "team": "CSK",
+        "value": "9"
+      },
+      {
+        "position": "3",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "9"
+      },
+      {
+        "position": "4",
+        "player": "Andre Russell",
+        "team": "KKR",
+        "value": "8"
+      },
+      {
+        "position": "5",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "value": "8"
+      },
+      {
+        "position": "6",
+        "player": "Mitchell Marsh",
+        "team": "DC",
+        "value": "7"
+      },
+      {
+        "position": "7",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "7"
+      },
+      {
+        "position": "8",
+        "player": "Jonny Bairstow",
+        "team": "PBKS",
+        "value": "7"
+      },
+      {
+        "position": "9",
+        "player": "Rajat Patidar",
+        "team": "RCB",
+        "value": "7"
+      },
+      {
+        "position": "10",
+        "player": "Pat Cummins",
+        "team": "KKR",
+        "value": "6"
+      },
+      {
+        "position": "11",
+        "player": "Ambati Rayudu",
+        "team": "CSK",
+        "value": "6"
+      },
+      {
+        "position": "12",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "6"
+      },
+      {
+        "position": "13",
+        "player": "David Miller",
+        "team": "GT",
+        "value": "6"
+      },
+      {
+        "position": "14",
+        "player": "Nicholas Pooran",
+        "team": "SRH",
+        "value": "6"
+      },
+      {
+        "position": "15",
+        "player": "Nicholas Pooran",
+        "team": "SRH",
+        "value": "6"
+      },
+      {
+        "position": "16",
+        "player": "Andre Russell",
+        "team": "KKR",
+        "value": "6"
+      },
+      {
+        "position": "17",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "6"
+      },
+      {
+        "position": "18",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "6"
+      },
+      {
+        "position": "19",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "6"
+      },
+      {
+        "position": "20",
+        "player": "Rahul Tripathi",
+        "team": "SRH",
+        "value": "6"
+      }
+    ],
+    "mostFifties": [
+      {
+        "position": "1",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "5"
+      },
+      {
+        "position": "2",
+        "player": "Liam Livingstone",
+        "team": "PBKS",
+        "value": "4"
+      },
+      {
+        "position": "3",
+        "player": "Deepak Hooda",
+        "team": "LSG",
+        "value": "4"
+      },
+      {
+        "position": "4",
+        "player": "Hardik Pandya",
+        "team": "GT",
+        "value": "4"
+      },
+      {
+        "position": "5",
+        "player": "K L Rahul",
+        "team": "LSG",
+        "value": "4"
+      },
+      {
+        "position": "6",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "4"
+      },
+      {
+        "position": "7",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "4"
+      },
+      {
+        "position": "8",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "value": "3"
+      },
+      {
+        "position": "9",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "3"
+      },
+      {
+        "position": "10",
+        "player": "Wriddhiman Saha",
+        "team": "GT",
+        "value": "3"
+      },
+      {
+        "position": "11",
+        "player": "Aiden Markram",
+        "team": "SRH",
+        "value": "3"
+      },
+      {
+        "position": "12",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "3"
+      },
+      {
+        "position": "13",
+        "player": "Shikhar Dhawan",
+        "team": "PBKS",
+        "value": "3"
+      },
+      {
+        "position": "14",
+        "player": "Shreyas Iyer",
+        "team": "KKR",
+        "value": "3"
+      },
+      {
+        "position": "15",
+        "player": "Ishan Kishan",
+        "team": "MI",
+        "value": "3"
+      },
+      {
+        "position": "16",
+        "player": "Rahul Tripathi",
+        "team": "SRH",
+        "value": "3"
+      },
+      {
+        "position": "17",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "3"
+      },
+      {
+        "position": "18",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "3"
+      },
+      {
+        "position": "19",
+        "player": "Rajat Patidar",
+        "team": "RCB",
+        "value": "2"
+      },
+      {
+        "position": "20",
+        "player": "Mitchell Marsh",
+        "team": "DC",
+        "value": "2"
+      }
+    ],
+    "mostCenturies": [
+      {
+        "position": "1",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "4"
+      },
+      {
+        "position": "2",
+        "player": "K L Rahul",
+        "team": "LSG",
+        "value": "2"
+      },
+      {
+        "position": "3",
+        "player": "Rajat Patidar",
+        "team": "RCB",
+        "value": "1"
+      },
+      {
+        "position": "4",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "1"
+      }
+    ]
+  },
+  "2023": {
+    "orangeCap": [
+      {
+        "position": "1",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "890"
+      },
+      {
+        "position": "2",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "730"
+      },
+      {
+        "position": "3",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "value": "672"
+      },
+      {
+        "position": "4",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "639"
+      },
+      {
+        "position": "5",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "625"
+      },
+      {
+        "position": "6",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "605"
+      },
+      {
+        "position": "7",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "590"
+      },
+      {
+        "position": "8",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "516"
+      },
+      {
+        "position": "9",
+        "player": "Rinku Singh",
+        "team": "KKR",
+        "value": "474"
+      },
+      {
+        "position": "10",
+        "player": "Ishan Kishan",
+        "team": "MI",
+        "value": "454"
+      },
+      {
+        "position": "11",
+        "player": "Cameron Green",
+        "team": "MI",
+        "value": "452"
+      },
+      {
+        "position": "12",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "448"
+      },
+      {
+        "position": "13",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "value": "418"
+      },
+      {
+        "position": "14",
+        "player": "Nitish Rana",
+        "team": "KKR",
+        "value": "413"
+      },
+      {
+        "position": "15",
+        "player": "Marcus Stoinis",
+        "team": "LSG",
+        "value": "408"
+      },
+      {
+        "position": "16",
+        "player": "Venkatesh Iyer",
+        "team": "KKR",
+        "value": "404"
+      },
+      {
+        "position": "17",
+        "player": "Glenn Maxwell",
+        "team": "RCB",
+        "value": "400"
+      },
+      {
+        "position": "18",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "392"
+      },
+      {
+        "position": "19",
+        "player": "Kyle Mayers",
+        "team": "LSG",
+        "value": "379"
+      },
+      {
+        "position": "20",
+        "player": "Shikhar Dhawan",
+        "team": "PBKS",
+        "value": "373"
+      }
+    ],
+    "mostFours": [
+      {
+        "position": "1",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "16"
+      },
+      {
+        "position": "2",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "value": "16"
+      },
+      {
+        "position": "3",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "13"
+      },
+      {
+        "position": "4",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "13"
+      },
+      {
+        "position": "5",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "12"
+      },
+      {
+        "position": "6",
+        "player": "Harry Brook",
+        "team": "SRH",
+        "value": "12"
+      },
+      {
+        "position": "7",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "12"
+      },
+      {
+        "position": "8",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "12"
+      },
+      {
+        "position": "9",
+        "player": "Shikhar Dhawan",
+        "team": "PBKS",
+        "value": "12"
+      },
+      {
+        "position": "10",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "value": "12"
+      },
+      {
+        "position": "11",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "11"
+      },
+      {
+        "position": "12",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "11"
+      },
+      {
+        "position": "13",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "11"
+      },
+      {
+        "position": "14",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "11"
+      },
+      {
+        "position": "15",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "value": "11"
+      },
+      {
+        "position": "16",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "10"
+      },
+      {
+        "position": "17",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "10"
+      },
+      {
+        "position": "18",
+        "player": "Rahul Tripathi",
+        "team": "SRH",
+        "value": "10"
+      },
+      {
+        "position": "19",
+        "player": "Wriddhiman Saha",
+        "team": "GT",
+        "value": "10"
+      },
+      {
+        "position": "20",
+        "player": "Simran Singh",
+        "team": "PBKS",
+        "value": "10"
+      }
+    ],
+    "mostSixes": [
+      {
+        "position": "1",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "10"
+      },
+      {
+        "position": "2",
+        "player": "Rashid Khan",
+        "team": "GT",
+        "value": "10"
+      },
+      {
+        "position": "3",
+        "player": "Liam Livingstone",
+        "team": "PBKS",
+        "value": "9"
+      },
+      {
+        "position": "4",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "9"
+      },
+      {
+        "position": "5",
+        "player": "Venkatesh Iyer",
+        "team": "KKR",
+        "value": "9"
+      },
+      {
+        "position": "6",
+        "player": "Cameron Green",
+        "team": "MI",
+        "value": "8"
+      },
+      {
+        "position": "7",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "8"
+      },
+      {
+        "position": "8",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "8"
+      },
+      {
+        "position": "9",
+        "player": "Marcus Stoinis",
+        "team": "LSG",
+        "value": "8"
+      },
+      {
+        "position": "10",
+        "player": "Glenn Maxwell",
+        "team": "RCB",
+        "value": "8"
+      },
+      {
+        "position": "11",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "7"
+      },
+      {
+        "position": "12",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "7"
+      },
+      {
+        "position": "13",
+        "player": "Rahmanullah Gurbaz",
+        "team": "KKR",
+        "value": "7"
+      },
+      {
+        "position": "14",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "7"
+      },
+      {
+        "position": "15",
+        "player": "Kyle Mayers",
+        "team": "LSG",
+        "value": "7"
+      },
+      {
+        "position": "16",
+        "player": "Mitchell Marsh",
+        "team": "DC",
+        "value": "6"
+      },
+      {
+        "position": "17",
+        "player": "Phil Salt",
+        "team": "DC",
+        "value": "6"
+      },
+      {
+        "position": "18",
+        "player": "Simran Singh",
+        "team": "PBKS",
+        "value": "6"
+      },
+      {
+        "position": "19",
+        "player": "Rinku Singh",
+        "team": "KKR",
+        "value": "6"
+      },
+      {
+        "position": "20",
+        "player": "Glenn Maxwell",
+        "team": "RCB",
+        "value": "6"
+      }
+    ],
+    "mostFifties": [
+      {
+        "position": "1",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "8"
+      },
+      {
+        "position": "2",
+        "player": "David Warner",
+        "team": "DC",
+        "value": "6"
+      },
+      {
+        "position": "3",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "6"
+      },
+      {
+        "position": "4",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "value": "6"
+      },
+      {
+        "position": "5",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "5"
+      },
+      {
+        "position": "6",
+        "player": "Glenn Maxwell",
+        "team": "RCB",
+        "value": "5"
+      },
+      {
+        "position": "7",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "5"
+      },
+      {
+        "position": "8",
+        "player": "Kyle Mayers",
+        "team": "LSG",
+        "value": "4"
+      },
+      {
+        "position": "9",
+        "player": "Rinku Singh",
+        "team": "KKR",
+        "value": "4"
+      },
+      {
+        "position": "10",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "4"
+      },
+      {
+        "position": "11",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "4"
+      },
+      {
+        "position": "12",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "4"
+      },
+      {
+        "position": "13",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "3"
+      },
+      {
+        "position": "14",
+        "player": "Vijay Shankar",
+        "team": "GT",
+        "value": "3"
+      },
+      {
+        "position": "15",
+        "player": "Shikhar Dhawan",
+        "team": "PBKS",
+        "value": "3"
+      },
+      {
+        "position": "16",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "value": "3"
+      },
+      {
+        "position": "17",
+        "player": "Nitish Rana",
+        "team": "KKR",
+        "value": "3"
+      },
+      {
+        "position": "18",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "3"
+      },
+      {
+        "position": "19",
+        "player": "Ishan Kishan",
+        "team": "MI",
+        "value": "3"
+      },
+      {
+        "position": "20",
+        "player": "Marcus Stoinis",
+        "team": "LSG",
+        "value": "3"
+      }
+    ],
+    "mostCenturies": [
+      {
+        "position": "1",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "3"
+      },
+      {
+        "position": "2",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "2"
+      },
+      {
+        "position": "3",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "1"
+      },
+      {
+        "position": "4",
+        "player": "Harry Brook",
+        "team": "SRH",
+        "value": "1"
+      },
+      {
+        "position": "5",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "1"
+      },
+      {
+        "position": "6",
+        "player": "Venkatesh Iyer",
+        "team": "KKR",
+        "value": "1"
+      },
+      {
+        "position": "7",
+        "player": "Simran Singh",
+        "team": "PBKS",
+        "value": "1"
+      },
+      {
+        "position": "8",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "1"
+      },
+      {
+        "position": "9",
+        "player": "Cameron Green",
+        "team": "MI",
+        "value": "1"
+      }
+    ]
+  },
+  "2024": {
+    "orangeCap": [
+      {
+        "position": "1",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "741"
+      },
+      {
+        "position": "2",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "583"
+      },
+      {
+        "position": "3",
+        "player": "Riyan Parag",
+        "team": "RR",
+        "value": "573"
+      },
+      {
+        "position": "4",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "567"
+      },
+      {
+        "position": "5",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "531"
+      },
+      {
+        "position": "6",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "527"
+      },
+      {
+        "position": "7",
+        "player": "K L Rahul",
+        "team": "LSG",
+        "value": "520"
+      },
+      {
+        "position": "8",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "499"
+      },
+      {
+        "position": "9",
+        "player": "Sunil Narine",
+        "team": "KKR",
+        "value": "488"
+      },
+      {
+        "position": "10",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "484"
+      },
+      {
+        "position": "11",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "479"
+      },
+      {
+        "position": "12",
+        "player": "Rishabh Pant",
+        "team": "DC",
+        "value": "446"
+      },
+      {
+        "position": "13",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "438"
+      },
+      {
+        "position": "14",
+        "player": "Phil Salt",
+        "team": "KKR",
+        "value": "435"
+      },
+      {
+        "position": "15",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "435"
+      },
+      {
+        "position": "16",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "426"
+      },
+      {
+        "position": "17",
+        "player": "Rohit Sharma",
+        "team": "MI",
+        "value": "417"
+      },
+      {
+        "position": "18",
+        "player": "Tilak Varma",
+        "team": "MI",
+        "value": "416"
+      },
+      {
+        "position": "19",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "value": "396"
+      },
+      {
+        "position": "20",
+        "player": "Rajat Patidar",
+        "team": "RCB",
+        "value": "395"
+      }
+    ],
+    "mostFours": [
+      {
+        "position": "1",
+        "player": "Phil Salt",
+        "team": "KKR",
+        "value": "14"
+      },
+      {
+        "position": "2",
+        "player": "Marcus Stoinis",
+        "team": "LSG",
+        "value": "13"
+      },
+      {
+        "position": "3",
+        "player": "Sunil Narine",
+        "team": "KKR",
+        "value": "13"
+      },
+      {
+        "position": "4",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "12"
+      },
+      {
+        "position": "5",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "12"
+      },
+      {
+        "position": "6",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "12"
+      },
+      {
+        "position": "7",
+        "player": "Jake Fraser - McGurk",
+        "team": "DC",
+        "value": "11"
+      },
+      {
+        "position": "8",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "11"
+      },
+      {
+        "position": "9",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "11"
+      },
+      {
+        "position": "10",
+        "player": "Rohit Sharma",
+        "team": "MI",
+        "value": "11"
+      },
+      {
+        "position": "11",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "10"
+      },
+      {
+        "position": "12",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "10"
+      },
+      {
+        "position": "13",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "value": "10"
+      },
+      {
+        "position": "14",
+        "player": "Rohit Sharma",
+        "team": "MI",
+        "value": "10"
+      },
+      {
+        "position": "15",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "9"
+      },
+      {
+        "position": "16",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "9"
+      },
+      {
+        "position": "17",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "9"
+      },
+      {
+        "position": "18",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "9"
+      },
+      {
+        "position": "19",
+        "player": "Ayush Badoni",
+        "team": "LSG",
+        "value": "9"
+      },
+      {
+        "position": "20",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "9"
+      }
+    ],
+    "mostSixes": [
+      {
+        "position": "1",
+        "player": "Will Jacks",
+        "team": "RCB",
+        "value": "10"
+      },
+      {
+        "position": "2",
+        "player": "Jonny Bairstow",
+        "team": "PBKS",
+        "value": "9"
+      },
+      {
+        "position": "3",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "8"
+      },
+      {
+        "position": "4",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "8"
+      },
+      {
+        "position": "5",
+        "player": "Shashank Singh",
+        "team": "PBKS",
+        "value": "8"
+      },
+      {
+        "position": "6",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "8"
+      },
+      {
+        "position": "7",
+        "player": "Nitish Kumar Reddy",
+        "team": "SRH",
+        "value": "8"
+      },
+      {
+        "position": "8",
+        "player": "Rishabh Pant",
+        "team": "DC",
+        "value": "8"
+      },
+      {
+        "position": "9",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "8"
+      },
+      {
+        "position": "10",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "value": "7"
+      },
+      {
+        "position": "11",
+        "player": "Jake Fraser - McGurk",
+        "team": "DC",
+        "value": "7"
+      },
+      {
+        "position": "12",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "7"
+      },
+      {
+        "position": "13",
+        "player": "Sunil Narine",
+        "team": "KKR",
+        "value": "7"
+      },
+      {
+        "position": "14",
+        "player": "Tristan Stubbs",
+        "team": "DC",
+        "value": "7"
+      },
+      {
+        "position": "15",
+        "player": "Andre Russell",
+        "team": "KKR",
+        "value": "7"
+      },
+      {
+        "position": "16",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "7"
+      },
+      {
+        "position": "17",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "7"
+      },
+      {
+        "position": "18",
+        "player": "Ashutosh Sharma",
+        "team": "PBKS",
+        "value": "7"
+      },
+      {
+        "position": "19",
+        "player": "Sunil Narine",
+        "team": "KKR",
+        "value": "7"
+      },
+      {
+        "position": "20",
+        "player": "Dinesh Karthik",
+        "team": "RCB",
+        "value": "7"
+      }
+    ],
+    "mostFifties": [
+      {
+        "position": "1",
+        "player": "Rajat Patidar",
+        "team": "RCB",
+        "value": "5"
+      },
+      {
+        "position": "2",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "value": "5"
+      },
+      {
+        "position": "3",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "5"
+      },
+      {
+        "position": "4",
+        "player": "Jake Fraser - McGurk",
+        "team": "DC",
+        "value": "4"
+      },
+      {
+        "position": "5",
+        "player": "Phil Salt",
+        "team": "KKR",
+        "value": "4"
+      },
+      {
+        "position": "6",
+        "player": "Venkatesh Iyer",
+        "team": "KKR",
+        "value": "4"
+      },
+      {
+        "position": "7",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "4"
+      },
+      {
+        "position": "8",
+        "player": "Riyan Parag",
+        "team": "RR",
+        "value": "4"
+      },
+      {
+        "position": "9",
+        "player": "K L Rahul",
+        "team": "LSG",
+        "value": "4"
+      },
+      {
+        "position": "10",
+        "player": "Faf Du Plessis",
+        "team": "RCB",
+        "value": "4"
+      },
+      {
+        "position": "11",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "4"
+      },
+      {
+        "position": "12",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "4"
+      },
+      {
+        "position": "13",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "3"
+      },
+      {
+        "position": "14",
+        "player": "Quinton De Kock",
+        "team": "LSG",
+        "value": "3"
+      },
+      {
+        "position": "15",
+        "player": "Tristan Stubbs",
+        "team": "DC",
+        "value": "3"
+      },
+      {
+        "position": "16",
+        "player": "Rishabh Pant",
+        "team": "DC",
+        "value": "3"
+      },
+      {
+        "position": "17",
+        "player": "Tilak Varma",
+        "team": "MI",
+        "value": "3"
+      },
+      {
+        "position": "18",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "value": "3"
+      },
+      {
+        "position": "19",
+        "player": "Sunil Narine",
+        "team": "KKR",
+        "value": "3"
+      },
+      {
+        "position": "20",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "3"
+      }
+    ],
+    "mostCenturies": [
+      {
+        "position": "1",
+        "player": "Jos Buttler",
+        "team": "RR",
+        "value": "2"
+      },
+      {
+        "position": "2",
+        "player": "Will Jacks",
+        "team": "RCB",
+        "value": "1"
+      },
+      {
+        "position": "3",
+        "player": "Suryakumar Yadav",
+        "team": "MI",
+        "value": "1"
+      },
+      {
+        "position": "4",
+        "player": "Jonny Bairstow",
+        "team": "PBKS",
+        "value": "1"
+      },
+      {
+        "position": "5",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "1"
+      },
+      {
+        "position": "6",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "1"
+      },
+      {
+        "position": "7",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "1"
+      },
+      {
+        "position": "8",
+        "player": "Sunil Narine",
+        "team": "KKR",
+        "value": "1"
+      },
+      {
+        "position": "9",
+        "player": "Rohit Sharma",
+        "team": "MI",
+        "value": "1"
+      },
+      {
+        "position": "10",
+        "player": "Marcus Stoinis",
+        "team": "LSG",
+        "value": "1"
+      },
+      {
+        "position": "11",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "1"
+      },
+      {
+        "position": "12",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "1"
+      },
+      {
+        "position": "13",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "1"
+      }
+    ]
+  },
+  "2025": {
+    "orangeCap": [
+      {
+        "position": "1",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "759"
+      },
+      {
+        "position": "2",
+        "player": "Surya Kumar Yadav",
+        "team": "MI",
+        "value": "717"
+      },
+      {
+        "position": "3",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "657"
+      },
+      {
+        "position": "4",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "650"
+      },
+      {
+        "position": "5",
+        "player": "Mitchell Marsh",
+        "team": "LSG",
+        "value": "627"
+      },
+      {
+        "position": "6",
+        "player": "Shreyas Iyer",
+        "team": "PBKS",
+        "value": "604"
+      },
+      {
+        "position": "7",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "559"
+      },
+      {
+        "position": "8",
+        "player": "Prabhsimran Singh",
+        "team": "PBKS",
+        "value": "549"
+      },
+      {
+        "position": "9",
+        "player": "K L Rahul",
+        "team": "DC",
+        "value": "539"
+      },
+      {
+        "position": "10",
+        "player": "Jos Buttler",
+        "team": "GT",
+        "value": "538"
+      },
+      {
+        "position": "11",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "524"
+      },
+      {
+        "position": "12",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "487"
+      },
+      {
+        "position": "13",
+        "player": "Priyansh Arya",
+        "team": "PBKS",
+        "value": "475"
+      },
+      {
+        "position": "14",
+        "player": "Aiden Markram",
+        "team": "LSG",
+        "value": "445"
+      },
+      {
+        "position": "15",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "439"
+      },
+      {
+        "position": "16",
+        "player": "Rohit Sharma",
+        "team": "MI",
+        "value": "418"
+      },
+      {
+        "position": "17",
+        "player": "Phil Salt",
+        "team": "RCB",
+        "value": "403"
+      },
+      {
+        "position": "18",
+        "player": "Riyan Parag",
+        "team": "RR",
+        "value": "393"
+      },
+      {
+        "position": "19",
+        "player": "Ajinkya Rahane",
+        "team": "KKR",
+        "value": "390"
+      },
+      {
+        "position": "20",
+        "player": "Ryan Rickelton",
+        "team": "MI",
+        "value": "388"
+      }
+    ],
+    "mostFours": [
+      {
+        "position": "1",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "14"
+      },
+      {
+        "position": "2",
+        "player": "K L Rahul",
+        "team": "DC",
+        "value": "14"
+      },
+      {
+        "position": "3",
+        "player": "Karun Nair",
+        "team": "DC",
+        "value": "12"
+      },
+      {
+        "position": "4",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "12"
+      },
+      {
+        "position": "5",
+        "player": "Jos Buttler",
+        "team": "GT",
+        "value": "11"
+      },
+      {
+        "position": "6",
+        "player": "Rishabh Pant",
+        "team": "LSG",
+        "value": "11"
+      },
+      {
+        "position": "7",
+        "player": "Ishan Kishan",
+        "team": "SRH",
+        "value": "11"
+      },
+      {
+        "position": "8",
+        "player": "Nitish Rana",
+        "team": "RR",
+        "value": "10"
+      },
+      {
+        "position": "9",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "10"
+      },
+      {
+        "position": "10",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "10"
+      },
+      {
+        "position": "11",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "10"
+      },
+      {
+        "position": "12",
+        "player": "Mitchell Marsh",
+        "team": "LSG",
+        "value": "10"
+      },
+      {
+        "position": "13",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "10"
+      },
+      {
+        "position": "14",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "10"
+      },
+      {
+        "position": "15",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "9"
+      },
+      {
+        "position": "16",
+        "player": "Aiden Markram",
+        "team": "LSG",
+        "value": "9"
+      },
+      {
+        "position": "17",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "9"
+      },
+      {
+        "position": "18",
+        "player": "Prabhsimran Singh",
+        "team": "PBKS",
+        "value": "9"
+      },
+      {
+        "position": "19",
+        "player": "Sam Curran",
+        "team": "CSK",
+        "value": "9"
+      },
+      {
+        "position": "20",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "9"
+      }
+    ],
+    "mostSixes": [
+      {
+        "position": "1",
+        "player": "Vaibhav Suryavanshi",
+        "team": "RR",
+        "value": "11"
+      },
+      {
+        "position": "2",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "10"
+      },
+      {
+        "position": "3",
+        "player": "Priyansh Arya",
+        "team": "PBKS",
+        "value": "9"
+      },
+      {
+        "position": "4",
+        "player": "Shreyas Iyer",
+        "team": "PBKS",
+        "value": "9"
+      },
+      {
+        "position": "5",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "9"
+      },
+      {
+        "position": "6",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "8"
+      },
+      {
+        "position": "7",
+        "player": "Rishabh Pant",
+        "team": "LSG",
+        "value": "8"
+      },
+      {
+        "position": "8",
+        "player": "Shreyas Iyer",
+        "team": "PBKS",
+        "value": "8"
+      },
+      {
+        "position": "9",
+        "player": "Mitchell Marsh",
+        "team": "LSG",
+        "value": "8"
+      },
+      {
+        "position": "10",
+        "player": "Riyan Parag",
+        "team": "RR",
+        "value": "8"
+      },
+      {
+        "position": "11",
+        "player": "Prabhsimran Singh",
+        "team": "PBKS",
+        "value": "7"
+      },
+      {
+        "position": "12",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "7"
+      },
+      {
+        "position": "13",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "7"
+      },
+      {
+        "position": "14",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "7"
+      },
+      {
+        "position": "15",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "6"
+      },
+      {
+        "position": "16",
+        "player": "Ishan Kishan",
+        "team": "SRH",
+        "value": "6"
+      },
+      {
+        "position": "17",
+        "player": "Aniket Verma",
+        "team": "SRH",
+        "value": "6"
+      },
+      {
+        "position": "18",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "6"
+      },
+      {
+        "position": "19",
+        "player": "Prabhsimran Singh",
+        "team": "PBKS",
+        "value": "6"
+      },
+      {
+        "position": "20",
+        "player": "Quinton De Kock",
+        "team": "KKR",
+        "value": "6"
+      }
+    ],
+    "mostFifties": [
+      {
+        "position": "1",
+        "player": "Virat Kohli",
+        "team": "RCB",
+        "value": "8"
+      },
+      {
+        "position": "2",
+        "player": "Mitchell Marsh",
+        "team": "LSG",
+        "value": "6"
+      },
+      {
+        "position": "3",
+        "player": "Yashasvi Jaiswal",
+        "team": "RR",
+        "value": "6"
+      },
+      {
+        "position": "4",
+        "player": "Shubman Gill",
+        "team": "GT",
+        "value": "6"
+      },
+      {
+        "position": "5",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "6"
+      },
+      {
+        "position": "6",
+        "player": "Shreyas Iyer",
+        "team": "PBKS",
+        "value": "6"
+      },
+      {
+        "position": "7",
+        "player": "Jos Buttler",
+        "team": "GT",
+        "value": "5"
+      },
+      {
+        "position": "8",
+        "player": "Aiden Markram",
+        "team": "LSG",
+        "value": "5"
+      },
+      {
+        "position": "9",
+        "player": "Nicholas Pooran",
+        "team": "LSG",
+        "value": "5"
+      },
+      {
+        "position": "10",
+        "player": "Surya Kumar Yadav",
+        "team": "MI",
+        "value": "5"
+      },
+      {
+        "position": "11",
+        "player": "Phil Salt",
+        "team": "RCB",
+        "value": "4"
+      },
+      {
+        "position": "12",
+        "player": "Rohit Sharma",
+        "team": "MI",
+        "value": "4"
+      },
+      {
+        "position": "13",
+        "player": "Prabhsimran Singh",
+        "team": "PBKS",
+        "value": "4"
+      },
+      {
+        "position": "14",
+        "player": "Ajinkya Rahane",
+        "team": "KKR",
+        "value": "3"
+      },
+      {
+        "position": "15",
+        "player": "Travis Head",
+        "team": "SRH",
+        "value": "3"
+      },
+      {
+        "position": "16",
+        "player": "K L Rahul",
+        "team": "DC",
+        "value": "3"
+      },
+      {
+        "position": "17",
+        "player": "Shashank Singh",
+        "team": "PBKS",
+        "value": "3"
+      },
+      {
+        "position": "18",
+        "player": "Ryan Rickelton",
+        "team": "MI",
+        "value": "3"
+      },
+      {
+        "position": "19",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "value": "2"
+      },
+      {
+        "position": "20",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "value": "2"
+      }
+    ],
+    "mostCenturies": [
+      {
+        "position": "1",
+        "player": "Vaibhav Suryavanshi",
+        "team": "RR",
+        "value": "1"
+      },
+      {
+        "position": "2",
+        "player": "Mitchell Marsh",
+        "team": "LSG",
+        "value": "1"
+      },
+      {
+        "position": "3",
+        "player": "K L Rahul",
+        "team": "DC",
+        "value": "1"
+      },
+      {
+        "position": "4",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "value": "1"
+      },
+      {
+        "position": "5",
+        "player": "Abhishek Sharma",
+        "team": "SRH",
+        "value": "1"
+      },
+      {
+        "position": "6",
+        "player": "Ishan Kishan",
+        "team": "SRH",
+        "value": "1"
+      },
+      {
+        "position": "7",
+        "player": "Rishabh Pant",
+        "team": "LSG",
+        "value": "1"
+      },
+      {
+        "position": "8",
+        "player": "Sai Sudharsan",
+        "team": "GT",
+        "value": "1"
+      },
+      {
+        "position": "9",
+        "player": "Priyansh Arya",
+        "team": "PBKS",
+        "value": "1"
+      }
+    ]
+  }
+}
