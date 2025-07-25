@@ -1,5 +1,6 @@
-import puppeteer from "puppeteer";
-import fs from "fs";
+const puppeteer = require("puppeteer");
+const fs = require("fs");
+
 const seasonIndexes = {
     2025: 0,
     2024: 1,
@@ -82,7 +83,7 @@ const extractData = async (page) => {
 };
 
 const scrapeIPL = async () => {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
     await page.setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36");

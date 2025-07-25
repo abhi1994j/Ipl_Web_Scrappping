@@ -1,160 +1,153 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>IPL Orange Cap Stats</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        body {
-            font-family: sans-serif;
-            text-align: center;
-            margin: 20px;
-        }
-        canvas {
-            width: 90% !important;
-            max-width: 1000px;
-            height: 500px !important; /* 💥 Force taller chart */
-            margin: 30px auto;
-        }
-        select {
-            padding: 8px 16px;
-            font-size: 16px;
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-
-    <h2><strong>IPL Top 10 Orange Cap Players (2021–2025)</strong></h2>
-    <label for="seasonSelector"><strong>Select Season:</strong></label>
-    <select id="seasonSelector">
-        <option value="2021">2021</option>
-        <option value="2022">2022</option>
-        <option value="2023">2023</option>
-        <option value="2024" selected>2024</option>
-        <option value="2025">2025</option>
-    </select>
-
-    <canvas id="orangeCapChart"></canvas>
-
-    <script>
-        const iplData = {
-            "2021": [
-                ["Ruturaj Gaikwad", 635],
-                ["Faf du Plessis", 633],
-                ["KL Rahul", 626],
-                ["Shikhar Dhawan", 587],
-                ["Glenn Maxwell", 513],
-                ["Sanju Samson", 484],
-                ["Prithvi Shaw", 479],
-                ["Shubman Gill", 478],
-                ["Mayank Agarwal", 441],
-                ["Rishabh Pant", 419]
-            ],
-            "2022": [
-                ["Jos Buttler", 863],
-                ["K L Rahul", 616],
-                ["Quinton De Kock", 508],
-                ["Hardik Pandya", 487],
-                ["Shubman Gill", 483],
-                ["David Miller", 481],
-                ["Faf Du Plessis", 468],
-                ["Shikhar Dhawan", 460],
-                ["Sanju Samson", 458],
-                ["Deepak Hooda", 451]
-            ],
-            "2023": [
-                ["Shubman Gill", 890],
-                ["Faf Du Plessis", 730],
-                ["Devon Conway", 672],
-                ["Virat Kohli", 639],
-                ["Yashasvi Jaiswal", 625],
-                ["Suryakumar Yadav", 605],
-                ["Ruturaj Gaikwad", 590],
-                ["David Warner", 516],
-                ["Rinku Singh", 474],
-                ["Ishan Kishan", 454]
-            ],
-            "2024": [
-                ["Virat Kohli", 741],
-                ["Ruturaj Gaikwad", 583],
-                ["Riyan Parag", 573],
-                ["Travis Head", 567],
-                ["Sanju Samson", 531],
-                ["Sai Sudharsan", 527],
-                ["K L Rahul", 520],
-                ["Nicholas Pooran", 499],
-                ["Sunil Narine", 488],
-                ["Abhishek Sharma", 484]
-            ],
-            "2025": [
-                ["Sai Sudharsan", 759],
-                ["Surya Kumar Yadav", 717],
-                ["Virat Kohli", 657],
-                ["Shubman Gill", 650],
-                ["Mitchell Marsh", 627],
-                ["Shreyas Iyer", 604],
-                ["Yashasvi Jaiswal", 559],
-                ["Prabhsimran Singh", 549],
-                ["K L Rahul", 539],
-                ["Jos Buttler", 538]
-            ]
-        };
-
-        const ctx = document.getElementById("orangeCapChart").getContext("2d");
-
-        function createChart(season) {
-            const players = iplData[season].map(item => item[0]);
-            const runs = iplData[season].map(item => item[1]);
-
-            if (window.orangeChart) {
-                window.orangeChart.destroy();
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>IPL Top 10 Stats</title>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #111;
+                color: white;
+                margin: 0;
+                padding: 20px;
             }
 
-            window.orangeChart = new Chart(ctx, {
-                type: 'bar',
-                data: {
-                    labels: players,
-                    datasets: [{
-                        label: `${season} Runs`,
-                        data: runs,
-                        backgroundColor: 'rgba(54, 162, 235, 0.7)'
-                    }]
-                },
-                options: {
-                    responsive: true,
-                    plugins: {
-                        title: {
-                            display: true,
-                            text: `Top 10 Run Scorers - IPL ${season}`
-                        }
-                    },
-                    scales: {
-                        y: {
-                            beginAtZero: true,
-                            title: {
-                                display: true,
-                                text: 'Runs'
-                            }
+            h1 {
+                text-align: center;
+                margin-bottom: 30px;
+            }
+
+            .controls {
+                display: flex;
+                justify-content: center;
+                gap: 20px;
+                margin-bottom: 20px;
+                flex-wrap: wrap;
+            }
+
+            select {
+                padding: 8px 12px;
+                font-size: 16px;
+                border-radius: 4px;
+                border: 1px solid #ccc;
+                background: white;
+            }
+
+            #chart {
+                max-width: 800px;
+                margin: 0 auto;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>IPL Top 10 Stats Chart</h2>
+
+        <h1>IPL Top 10 Stats</h1>
+        <select id="season-select"></select>
+        <select id="category-select">
+            <option value="orangeCap">Orange Cap</option>
+            <option value="mostFours">Most 4s</option>
+            <option value="mostSixes">Most 6s</option>
+            <option value="mostCenturies">Most 100s</option>
+            <option value="mostFifties">Most 50s</option>
+        </select>
+
+        <ul id="stats-list"></ul>
+
+        <canvas id="iplChart"></canvas>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                const seasonSelect = document.getElementById('season-select');
+                const categorySelect = document.getElementById('category-select');
+                const statsList = document.getElementById('stats-list');
+                const ctx = document.getElementById('iplChart').getContext('2d');
+
+                let data = {};
+                let chart;
+
+                fetch('./ipl-stats.json')
+                    .then((res) => res.json())
+                    .then((json) => {
+                        data = json;
+
+                        const seasons = Object.keys(data);
+                        seasons.forEach((season) => {
+                            const option = document.createElement('option');
+                            option.value = season;
+                            option.textContent = season;
+                            seasonSelect.appendChild(option);
+                        });
+
+                        seasonSelect.value = seasons[0];
+                        updateStats();
+
+                        seasonSelect.addEventListener('change', updateStats);
+                        categorySelect.addEventListener('change', updateStats);
+                    })
+                    .catch((err) => {
+                        console.error('Error fetching data:', err);
+                    });
+
+                function updateStats() {
+                    const season = seasonSelect.value;
+                    const category = categorySelect.value;
+                    const list = data[season][category];
+
+                    statsList.innerHTML = '';
+                    list.forEach((item, index) => {
+                        const li = document.createElement('li');
+                        li.textContent = `${index + 1}. ${item.player} - ${item.value}`;
+                        statsList.appendChild(li);
+                    });
+
+                    // Prepare chart data
+                    const labels = list.map((item) => item.player);
+                    const values = list.map((item) => parseInt(item.value));
+
+                    // Destroy old chart if exists
+                    if (chart) chart.destroy();
+
+                    chart = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: labels,
+                            datasets: [
+                                {
+                                    label: `${
+                                        categorySelect.options[categorySelect.selectedIndex].text
+                                    } (${season})`,
+                                    data: values,
+                                    backgroundColor: 'rgba(54, 162, 235, 0.7)',
+                                    borderColor: 'rgba(54, 162, 235, 1)',
+                                    borderWidth: 1,
+                                },
+                            ],
                         },
-                        x: {
-                            title: {
-                                display: true,
-                                text: 'Player Name'
-                            }
-                        }
-                    }
+                        options: {
+                            responsive: true,
+                            plugins: {
+                                legend: {
+                                    display: false,
+                                },
+                                title: {
+                                    display: true,
+                                    text: `Top 10 - ${
+                                        categorySelect.options[categorySelect.selectedIndex].text
+                                    } (${season})`,
+                                },
+                            },
+                            scales: {
+                                y: {
+                                    beginAtZero: true,
+                                },
+                            },
+                        },
+                    });
                 }
             });
-        }
-
-        const selector = document.getElementById("seasonSelector");
-        selector.addEventListener("change", () => {
-            createChart(selector.value);
-        });
-
-        // Initial load
-        createChart("2024");
-    </script>
-</body>
+        </script>
+    </body>
 </html>
